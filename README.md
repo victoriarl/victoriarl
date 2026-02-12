@@ -1,7 +1,7 @@
 # About me
 
 👋 Hi, I’m Victoria Ramírez López
-- 👀 I’m interested in all things bioinformatics, metabollic modelling, genome-scale metabolic networks, systems biology and the developing field of cultivated meat... and meditation.
+- 👀 My main interests are cultivated meat, metabolic modelling, genome-scale metabolic networks, and the broader field of systems biology... and meditation.
 - 📫 If you're interested in collaborating you can reach me through my email ramirezvicky4@gmail.com 
 
 <!---
